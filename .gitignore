@@ -1,6 +1,18 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+_ReSharper.*
+TEST-*.xml
+TestResult.xml
+*/bin
+*/Bin
+*/obj
+*.ReSharper.user
+*.suo
+file.db
+*.sln.cache
+*.user
+temp/
+*~
+.~*
+~$*
+*.DS_Store
+.DS_Store
+*.feature.cs
